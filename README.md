@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Yasinbimbam
-- 👀 I’m interested in data science and Business Intelligence
+- 👀 I’m interested in data science and data engineering
 - 🌱 I’m currently learning datascience and Azure AI & data
 
 
